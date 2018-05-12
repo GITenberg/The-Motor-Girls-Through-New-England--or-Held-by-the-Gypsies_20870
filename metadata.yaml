@@ -1,0 +1,31 @@
+_repo: The-Motor-Girls-Through-New-England--or-Held-by-the-Gypsies_20870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+title: The Motor Girls Through New England; or, Held by the Gypsies
+url: http://www.gutenberg.org/ebooks/20870
