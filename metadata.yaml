@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1022
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20870#The-Motor-Girls-Through-New-England--or-Held-by-the-Gypsies
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-03-22'
 gutenberg_type: Text
